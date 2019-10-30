@@ -20,12 +20,12 @@
 }
 
 .sun {
-    background-color: #ffdd00;
-    border: 10px solid #f1c40f;
+    background-color: gray;
+    border: 10px solid coral;
 }
 .moon {
-    background-color: #bdc3c7;
-    border: 10px solid #eaeff2;
+    background-color: lightseagreen;
+    border: 10px solid lightblue;
 }
 
 .night {
@@ -37,10 +37,10 @@
 }
 
 .moon:hover {
-    border: 20px solid #eaeff2;
+    border: 20px solid lightblue;
 }
 .sun:hover {
-    border: 20px solid #f1c40f;
+    border: 20px solid coral;
 }
 
 .visible {
